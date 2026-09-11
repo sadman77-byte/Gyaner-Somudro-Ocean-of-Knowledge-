@@ -1,4 +1,4 @@
-# 🌊 Ocean of Knowledge (Gnaner Somudro)
+# 🌊 Ocean of Knowledge (Gynaner Somudro)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Replit%20%7C%20Node.js%20%7C%20Python-blue)](https://replit.com)
@@ -125,7 +125,9 @@ DATABASE_URL=mongodb+srv://...
 ```bash
 npm start
 ```
+Or you can use this link---
 
+https://jnyaaner-smudr--businessishraqi.replit.app
 ---
 
 ## 📦 Zip File Storage Hydrator (Zip Extractor & Parser)
