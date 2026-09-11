@@ -1,1 +1,0 @@
-# Gyaner-Somudro-Ocean-of-Knowledge-
